@@ -117,6 +117,8 @@ The solvents are a categorical variable. Thus, we need to define all of the opti
 | y |
 | z |
 
+In order to use the toy dataset, these must first be downloaded locally and then uploaded using the csv upload feature in `Web-BO`.
+
 ## citation
 
 A. M. Mroz, P. N. Toka, E. A. del Rio Chanona, K. E. Jelfs, *submitted*.
