@@ -144,7 +144,7 @@ foo@bar:~/webBO$ python main.py
 A. M. Mroz, P. N. Toka, E. A. del Rio Chanona, K. E. Jelfs, *submitted*.
 
 ## acknowledgements
-The authors thank Dr. Matthew Evans, one of the developers of <a href="https://github.com/the-grey-group/datalab">`datalab`</a> for insightful discussions and assistance in working with <a href="https://github.com/the-grey-group/datalab">`datalab`</a>'s API. The authors would also like to thank Dr. Diego Alonso Alvarez and Dr. Lukas Turcani for their technical assistance in making `Web-BO` publically available. A.M.M. is supported by the Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, a Schmidt Futures program. K.E.J acknowledges the European Research Council through Agreement No. 758370 (ERC-StG-PE5-CoMMaD) and the Royal Society for a University Research Fellowship.
+The authors thank **Dr. Matthew Evans**, one of the developers of <a href="https://github.com/the-grey-group/datalab">`datalab`</a> for insightful discussions and assistance in working with <a href="https://github.com/the-grey-group/datalab">`datalab`</a>'s API. The authors would also like to thank **Dr. Diego Alonso Alvarez** and **Dr. Lukas Turcani** for their technical assistance in making `Web-BO` publically available. A.M.M. is supported by the Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, a Schmidt Futures program. K.E.J acknowledges the European Research Council through Agreement No. 758370 (ERC-StG-PE5-CoMMaD) and the Royal Society for a University Research Fellowship.
 
 ## license
 
