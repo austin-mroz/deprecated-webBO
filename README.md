@@ -19,7 +19,7 @@
 
 <br>
 
-![](https://github.com/austin-mroz/webbo/webbo_video_demo.gif)
+![](https://github.com/austin-mroz/webBO/blob/main/webbo_video_demo.gif)
 
 
 ## key features
