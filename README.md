@@ -19,6 +19,9 @@
 
 <br>
 
+![](https://github.com/austin-mroz/webbo/webbo_video_demo.gif)
+
+
 ## key features
 <table>
 <tr>
